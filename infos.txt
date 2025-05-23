@@ -1,0 +1,13 @@
+CREATE TABLE Produtos(
+    ID INT IDENTITY(1 , 1) PRIMARY KEY,
+    nome NVARCHAR(255),
+    descricao NVARCHAR(255),
+    preco DECIMAL(18,2),
+    imagem_url NVARCHAR(2083)
+
+)
+
+db_name = sqllab001dbdevsa
+gabmacedosadminuser
+iByhGETw_MEi5v8
+conta_armazenamento = calab001sa
