@@ -1,5 +1,6 @@
 # lab001
 
+Durante o curso eu melhorei o meu desempenho de criação de banco de dados e tive minha primeira experiencia com a Azure 
 ![image](https://github.com/user-attachments/assets/b34a1b33-b221-49f1-b64b-57a28b3a42d3)
 ![image](https://github.com/user-attachments/assets/0f92c0f0-3e0d-4536-91f1-244d1573488c)
 ![image](https://github.com/user-attachments/assets/30595d7b-94ef-463e-9737-0de64e846f7e)
